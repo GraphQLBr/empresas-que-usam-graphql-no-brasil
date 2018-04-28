@@ -1,8 +1,8 @@
 # Empresas que usam GraphQL no Brasil
 
-Nome | Website | Tecnologias Relacionadas
------------- | ------- | ------------
-Exemplo | https://exemplo.com/ | Redux, RxJS
+Nome | Website | Tecnologias Relacionadas | Cidade
+------------ | ------- | ------------ | -----------
+LogusTech | https://logus.tech/ | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB | Recife-PE 
 
 ## Projetos que usam React no Brasil
 
