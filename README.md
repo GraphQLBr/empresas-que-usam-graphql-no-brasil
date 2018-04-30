@@ -2,7 +2,8 @@
 
 Nome | Website | Tecnologias Relacionadas | Cidade
 ------------ | ------- | ------------ | -----------
-LogusTech | https://logus.tech/ | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB | Recife-PE 
+LogusTech | https://logus.tech/ | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB | Recife - PE 
+Decision6 | https://decision6.com/ | Vue, GraphQL, Apollo, Node, Restify, Go, PHP, PostgreSQL | Rio de Janeiro - Rj
 
 ## Projetos que usam GraphQL no Brasil
 
