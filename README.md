@@ -5,6 +5,7 @@ Nome | Website | Tecnologias Relacionadas | Cidade
 Decision6 | https://decision6.com/ | Vue, GraphQL, Apollo, Node, Restify, Go, PHP, PostgreSQL | Rio de Janeiro - RJ
 Entria | https://entria.com.br/ | React, React Native, GraphQL & Relay Modern | São Paulo - SP
 LogusTech | https://logus.tech/ | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB | Recife - PE 
+Quanto | https://contaquanto.com.br/ | React Native, Redux, GraphQL, NodeJS, Relay, Jest, CockroachDB | São Paulo - SP
 
 ## Projetos que usam GraphQL no Brasil
 
