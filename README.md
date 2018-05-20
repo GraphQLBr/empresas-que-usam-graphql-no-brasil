@@ -2,6 +2,7 @@
 
 Nome | Website | Tecnologias Relacionadas | Cidade
 ------------ | ------- | ------------ | -----------
+Convenia | https://convenia.com.br/ | Vue, Vuex, GraphQL, Apollo, NodeJS, PHP, MySQL, DynamoDB | São Paulo - SP
 Decision6 | https://decision6.com/ | Vue, GraphQL, Apollo, Node, Restify, Go, PHP, PostgreSQL | Rio de Janeiro - RJ
 Entria | https://entria.com.br/ | React, React Native, GraphQL & Relay Modern | São Paulo - SP
 Ignus | https://ignusdigital.recruitee.com// | React, React Native, GraphQL, Apollo, Node | Rio de Janeiro - RJ
