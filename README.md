@@ -9,6 +9,7 @@ Ignus | https://ignusdigital.recruitee.com// | React, React Native, GraphQL, Apo
 In Loco | https://inloco.com.br/ | React, React Native, GraphQL, Node | Recife - PE
 LogusTech | https://logus.tech/ | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB | Recife - PE 
 Quanto | https://contaquanto.com.br/ | React Native, Redux, GraphQL, NodeJS, Relay, Jest, CockroachDB | São Paulo - SP
+Webedia | http://webedia.com.br/ | React, Redux, Jest | Rio de Janeiro - RJ
 
 ## Projetos que usam GraphQL no Brasil
 
