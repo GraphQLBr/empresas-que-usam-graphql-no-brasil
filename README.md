@@ -16,7 +16,7 @@ Quanto | https://contaquanto.com.br/ | React Native, Redux, GraphQL, NodeJS, Rel
 
 Nome | Link | Tecnologias | Empresa
 ------------ | ------- | ------------ | ------------
-Exemplo | https://exemplo.com/ | Exemplo | Exemplo
+Fábrica de Software IFRS | https://ifrs.edu.br/ | React, Apollo, GraphQL & Node | Bento Gonçalves - RS
 
 Inspirado em: https://github.com/react-brasil/empresas-que-usam-react-no-brasil
 
