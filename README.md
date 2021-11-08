@@ -8,8 +8,8 @@ Entria | https://entria.com.br/ | React, React Native, GraphQL & Relay Modern | 
 Ignus | https://ignusdigital.recruitee.com// | React, React Native, GraphQL, Apollo, Node | Rio de Janeiro - RJ
 In Loco | https://inloco.com.br/ | React, React Native, GraphQL, Node | Recife - PE
 LogusTech | https://logus.tech/ | Vue, Vuex, GraphQL, Node, Apollo, Flask, MongoDB, MariaDB | Recife - PE 
-Riderize | https://riderize.com/ | React, React Native, GraphQL, Relay, Node, Apollo, MongoDB | Rio do Sul - SC 
 Quanto | https://contaquanto.com.br/ | React Native, Redux, GraphQL, NodeJS, Relay, Jest, CockroachDB | São Paulo - SP
+Riderize | https://riderize.com/ | React, React Native, GraphQL, Relay, Node, Apollo, MongoDB | Rio do Sul - SC 
 
 ## Projetos que usam GraphQL no Brasil
 
